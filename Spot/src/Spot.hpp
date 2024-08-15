@@ -2,8 +2,8 @@
 
 // only for application use intended. not to be used by Spot Engine
 
-#include "Spot/Application.h"
+#include "Spot/Application.hpp"
 
 // ---- Entry Point -----------------
-#include "Spot/EntryPoint.h"
+#include "Spot/EntryPoint.hpp"
 // ----------------------------------

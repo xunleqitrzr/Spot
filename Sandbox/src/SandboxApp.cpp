@@ -1,4 +1,4 @@
-#include <Spot.h>
+#include <Spot.hpp>
 
 class Sandbox : public Spot::Application
 {

@@ -15,16 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\Spot\Core.h">
+    <ClInclude Include="src\Spot\Core.hpp">
       <Filter>Headerdateien</Filter>
     </ClInclude>
-    <ClInclude Include="src\Spot\Application.h">
+    <ClInclude Include="src\Spot\Application.hpp">
       <Filter>Headerdateien</Filter>
     </ClInclude>
-    <ClInclude Include="src\Spot.h">
+    <ClInclude Include="src\Spot.hpp">
       <Filter>Headerdateien</Filter>
     </ClInclude>
-    <ClInclude Include="src\Spot\EntryPoint.h">
+    <ClInclude Include="src\Spot\EntryPoint.hpp">
       <Filter>Headerdateien</Filter>
     </ClInclude>
   </ItemGroup>

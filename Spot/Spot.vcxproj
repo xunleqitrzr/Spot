@@ -11,10 +11,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\Spot.h" />
-    <ClInclude Include="src\Spot\Application.h" />
-    <ClInclude Include="src\Spot\Core.h" />
-    <ClInclude Include="src\Spot\EntryPoint.h" />
+    <ClInclude Include="src\Spot.hpp" />
+    <ClInclude Include="src\Spot\Application.hpp" />
+    <ClInclude Include="src\Spot\Core.hpp" />
+    <ClInclude Include="src\Spot\EntryPoint.hpp" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Spot\Application.cpp" />
